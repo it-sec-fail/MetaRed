@@ -1,0 +1,83 @@
+ExifTool Version Number         : 12.30
+File Name                       : messi2.jpeg
+Directory                       : .
+File Size                       : 415 KiB
+File Modification Date/Time     : 2021:11:17 20:46:29+01:00
+File Access Date/Time           : 2021:11:17 20:46:29+01:00
+File Inode Change Date/Time     : 2021:11:17 20:46:41+01:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Exif Byte Order                 : Little-endian (Intel, II)
+Orientation                     : Horizontal (normal)
+X Resolution                    : 300
+Y Resolution                    : 300
+Resolution Unit                 : inches
+Software                        : GIMP 2.10.24
+Modify Date                     : 2021:11:08 16:44:21
+Color Space                     : sRGB
+Compression                     : JPEG (old-style)
+Photometric Interpretation      : YCbCr
+Samples Per Pixel               : 3
+Thumbnail Offset                : 304
+Thumbnail Length                : 9664
+XMP Toolkit                     : XMP Core 4.4.0-Exiv2
+Document ID                     : gimp:docid:gimp:0601821c-600e-40c1-94c0-c76217e2c20f
+Instance ID                     : xmp.iid:794e2b61-91d5-4d61-8a23-98ac79445bf2
+Original Document ID            : xmp.did:68366b32-f598-460d-bf9d-af9e7db1c0e5
+Format                          : image/jpeg
+Api                             : 2.0
+Platform                        : Linux
+Time Stamp                      : 1636400744407451
+Version                         : 2.10.24
+Creator Tool                    : GIMP 2.10
+History Action                  : saved
+History Changed                 : /
+History Instance ID             : xmp.iid:06fd37ce-5135-443b-b68c-03698db58294
+History Software Agent          : Gimp 2.10 (Linux)
+History When                    : 2021:11:08 16:45:44-03:00
+Profile CMM Type                : Little CMS
+Profile Version                 : 4.3.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2021:11:08 19:38:40
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : 
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Little CMS
+Profile ID                      : 0
+Profile Description             : GIMP built-in sRGB
+Profile Copyright               : Public Domain
+Media White Point               : 0.9642 1 0.82491
+Chromatic Adaptation            : 1.04788 0.02292 -0.05022 0.02959 0.99048 -0.01707 -0.00925 0.01508 0.75168
+Red Matrix Column               : 0.43604 0.22249 0.01392
+Blue Matrix Column              : 0.14305 0.06061 0.71393
+Green Matrix Column             : 0.38512 0.7169 0.09706
+Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
+Chromaticity Channels           : 3
+Chromaticity Colorant           : Unknown (0)
+Chromaticity Channel 1          : 0.64 0.33002
+Chromaticity Channel 2          : 0.3 0.60001
+Chromaticity Channel 3          : 0.15001 0.06
+Device Mfg Desc                 : GIMP
+Device Model Desc               : sRGB
+Comment                         : latitud: 48º 51' 23'' N, longitud: 2º 21' 7'' E
+Image Width                     : 1080
+Image Height                    : 1349
+Encoding Process                : Progressive DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 1080x1349
+Megapixels                      : 1.5
+Thumbnail Image                 : (Binary data 9664 bytes, use -b option to extract)
