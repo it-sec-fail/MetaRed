@@ -1,0 +1,8 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 1500 x 998, 8-bit/color RGB, non-interlaced
+54            0x36            Zlib compressed data, default compression
+345           0x159           TIFF image data, big-endian, offset of first image directory: 8
+9304          0x2458          Zlib compressed data, default compression
+

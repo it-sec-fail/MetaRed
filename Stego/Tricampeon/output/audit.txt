@@ -1,0 +1,23 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Thu Nov 18 08:52:51 2021
+Invocation: foremost -t all -i La_Capilla_Sixtina_del_Futbol.png 
+Output directory: /home/ulli/Documents/ctf/MetaRed/Stego/Tricampeon/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: La_Capilla_Sixtina_del_Futbol.png
+Start: Thu Nov 18 08:52:51 2021
+Length: 2 MB (2658710 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.png 	       2 MB 	          0 	  (1500 x 998)
+Finish: Thu Nov 18 08:52:51 2021
+
+1 FILES EXTRACTED
+	
+png:= 1
+------------------------------------------------------------------
+
+Foremost finished at Thu Nov 18 08:52:51 2021
